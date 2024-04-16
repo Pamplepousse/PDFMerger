@@ -1,0 +1,72 @@
+C:\Users\natha\WhiteWindowApp\obj\Debug\net8.0-windows\WhiteWindowApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natha\WhiteWindowApp\obj\Debug\net8.0-windows\WhiteWindowApp.AssemblyInfoInputs.cache
+C:\Users\natha\WhiteWindowApp\obj\Debug\net8.0-windows\WhiteWindowApp.AssemblyInfo.cs
+C:\Users\natha\WhiteWindowApp\obj\Debug\net8.0-windows\WhiteWindowApp.csproj.CoreCompileInputs.cache
+C:\Users\natha\WhiteWindowApp\obj\Debug\net8.0-windows\WhiteWindowApp.genruntimeconfig.cache
+C:\Users\natha\WhiteWindowApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\natha\WhiteWindowApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\natha\WhiteWindowApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\natha\WhiteWindowApp\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\natha\WhiteWindowApp\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\natha\WhiteWindowApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\natha\WhiteWindowApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\natha\WhiteWindowApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\natha\WhiteWindowApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Console.dll
+C:\Users\natha\WhiteWindowApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\natha\WhiteWindowApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\natha\WhiteWindowApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\natha\WhiteWindowApp\bin\Debug\net8.0-windows\PdfSharp.Charting.dll
+C:\Users\natha\WhiteWindowApp\bin\Debug\net8.0-windows\PdfSharp.Quality.dll
+C:\Users\natha\WhiteWindowApp\bin\Debug\net8.0-windows\PdfSharp.Snippets.dll
+C:\Users\natha\WhiteWindowApp\bin\Debug\net8.0-windows\PdfSharp.System.dll
+C:\Users\natha\WhiteWindowApp\bin\Debug\net8.0-windows\PdfSharp.WPFonts.dll
+C:\Users\natha\WhiteWindowApp\bin\Debug\net8.0-windows\PdfSharp.dll
+C:\Users\natha\WhiteWindowApp\bin\Debug\net8.0-windows\de\PdfSharp.Charting.resources.dll
+C:\Users\natha\WhiteWindowApp\bin\Debug\net8.0-windows\de\PdfSharp.resources.dll
+C:\Users\natha\WhiteWindowApp\obj\Debug\net8.0-windows\WhiteWindowApp.csproj.AssemblyReference.cache
+C:\Users\natha\WhiteWindowApp\obj\Debug\net8.0-windows\WhiteWin.72DF3C0F.Up2Date
+C:\Users\natha\WhiteWindowApp\bin\Debug\net8.0-windows\PDF's Merger.exe
+C:\Users\natha\WhiteWindowApp\bin\Debug\net8.0-windows\PDF's Merger.deps.json
+C:\Users\natha\WhiteWindowApp\bin\Debug\net8.0-windows\PDF's Merger.runtimeconfig.json
+C:\Users\natha\WhiteWindowApp\bin\Debug\net8.0-windows\PDF's Merger.dll
+C:\Users\natha\WhiteWindowApp\bin\Debug\net8.0-windows\PDF's Merger.pdb
+C:\Users\natha\WhiteWindowApp\obj\Debug\net8.0-windows\PDF's Merger.dll
+C:\Users\natha\WhiteWindowApp\obj\Debug\net8.0-windows\refint\PDF's Merger.dll
+C:\Users\natha\WhiteWindowApp\obj\Debug\net8.0-windows\PDF's Merger.pdb
+C:\Users\natha\WhiteWindowApp\obj\Debug\net8.0-windows\ref\PDF's Merger.dll
+C:\Dev\Projet Lourd\PDF'Merger\bin\Debug\net8.0-windows\PDF's Merger.exe
+C:\Dev\Projet Lourd\PDF'Merger\bin\Debug\net8.0-windows\PDF's Merger.deps.json
+C:\Dev\Projet Lourd\PDF'Merger\bin\Debug\net8.0-windows\PDF's Merger.runtimeconfig.json
+C:\Dev\Projet Lourd\PDF'Merger\bin\Debug\net8.0-windows\PDF's Merger.dll
+C:\Dev\Projet Lourd\PDF'Merger\bin\Debug\net8.0-windows\PDF's Merger.pdb
+C:\Dev\Projet Lourd\PDF'Merger\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Dev\Projet Lourd\PDF'Merger\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Dev\Projet Lourd\PDF'Merger\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Binder.dll
+C:\Dev\Projet Lourd\PDF'Merger\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Dev\Projet Lourd\PDF'Merger\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Dev\Projet Lourd\PDF'Merger\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Dev\Projet Lourd\PDF'Merger\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Dev\Projet Lourd\PDF'Merger\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Configuration.dll
+C:\Dev\Projet Lourd\PDF'Merger\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Console.dll
+C:\Dev\Projet Lourd\PDF'Merger\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Dev\Projet Lourd\PDF'Merger\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Dev\Projet Lourd\PDF'Merger\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Dev\Projet Lourd\PDF'Merger\bin\Debug\net8.0-windows\PdfSharp.Charting.dll
+C:\Dev\Projet Lourd\PDF'Merger\bin\Debug\net8.0-windows\PdfSharp.Quality.dll
+C:\Dev\Projet Lourd\PDF'Merger\bin\Debug\net8.0-windows\PdfSharp.Snippets.dll
+C:\Dev\Projet Lourd\PDF'Merger\bin\Debug\net8.0-windows\PdfSharp.System.dll
+C:\Dev\Projet Lourd\PDF'Merger\bin\Debug\net8.0-windows\PdfSharp.WPFonts.dll
+C:\Dev\Projet Lourd\PDF'Merger\bin\Debug\net8.0-windows\PdfSharp.dll
+C:\Dev\Projet Lourd\PDF'Merger\bin\Debug\net8.0-windows\de\PdfSharp.Charting.resources.dll
+C:\Dev\Projet Lourd\PDF'Merger\bin\Debug\net8.0-windows\de\PdfSharp.resources.dll
+C:\Dev\Projet Lourd\PDF'Merger\obj\Debug\net8.0-windows\WhiteWindowApp.csproj.AssemblyReference.cache
+C:\Dev\Projet Lourd\PDF'Merger\obj\Debug\net8.0-windows\WhiteWindowApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\Projet Lourd\PDF'Merger\obj\Debug\net8.0-windows\WhiteWindowApp.AssemblyInfoInputs.cache
+C:\Dev\Projet Lourd\PDF'Merger\obj\Debug\net8.0-windows\WhiteWindowApp.AssemblyInfo.cs
+C:\Dev\Projet Lourd\PDF'Merger\obj\Debug\net8.0-windows\WhiteWindowApp.csproj.CoreCompileInputs.cache
+C:\Dev\Projet Lourd\PDF'Merger\obj\Debug\net8.0-windows\WhiteWin.72DF3C0F.Up2Date
+C:\Dev\Projet Lourd\PDF'Merger\obj\Debug\net8.0-windows\PDF's Merger.dll
+C:\Dev\Projet Lourd\PDF'Merger\obj\Debug\net8.0-windows\refint\PDF's Merger.dll
+C:\Dev\Projet Lourd\PDF'Merger\obj\Debug\net8.0-windows\PDF's Merger.pdb
+C:\Dev\Projet Lourd\PDF'Merger\obj\Debug\net8.0-windows\WhiteWindowApp.genruntimeconfig.cache
+C:\Dev\Projet Lourd\PDF'Merger\obj\Debug\net8.0-windows\ref\PDF's Merger.dll
