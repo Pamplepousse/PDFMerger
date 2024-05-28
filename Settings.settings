@@ -1,0 +1,1 @@
+string backupPath = Properties.Settings.Default.BackupFolderPath;
